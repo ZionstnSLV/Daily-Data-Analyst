@@ -1,1 +1,11 @@
+# 📊 Daily Data Analysis Report
 
+## 🗂️ Struktur Repository
+
+
+
+daily-data-analysis/
+├── raw-data/          # Data mentah (CSV/Excel)
+├── notebooks/         # Jupyter Notebook analisis
+├── reports/           # Hasil akhir (HTML/PDF)
+└── README.md          # Anda sedang di sini!
